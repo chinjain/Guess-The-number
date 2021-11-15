@@ -1,0 +1,12 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+p {
+  font-family: sans-serif;
+}
+.lastResult {
+  color: white;
+  padding: 3px;
+}
